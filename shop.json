@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 3000,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_68bcad73-3137-4cac-8f44-0b97ce6f8a59?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop2",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus Zenbook2",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_68bcad73-3137-4cac-8f44-0b97ce6f8a59?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "id": 3,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "Mouse Mouse",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_68bcad73-3137-4cac-8f44-0b97ce6f8a59?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "price": 250,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_68bcad73-3137-4cac-8f44-0b97ce6f8a59?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "id": 5,
+      "name": "Mouse2",
+      "price": 2500,
+      "categoryId": 2,
+      "description": "MouseMouseMouse Mouse",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_68bcad73-3137-4cac-8f44-0b97ce6f8a59?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "id": 6,
+      "name": "Laptop",
+      "price": 2,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_68bcad73-3137-4cac-8f44-0b97ce6f8a59?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "id": 7,
+      "name": "Sony XZ",
+      "price": 25000,
+      "categoryId": 3,
+      "description": "sony telefon Zenbook",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_68bcad73-3137-4cac-8f44-0b97ce6f8a59?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "imageUrl": "https://www.euronics.ee/UserFiles/Products/Images/172638-iphone8-plus-spcgrey-2.png",
+      "name": "samsungj5",
+      "description": "akıllı",
+      "price": 1200,
+      "categoryId": 3,
+      "id": 8
+    },
+    {
+      "name": "Harddisk",
+      "description": "500gb",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_68bcad73-3137-4cac-8f44-0b97ce6f8a59?wid=488&hei=488&fmt=pjpeg",
+      "price": "50",
+      "categoryId": "5",
+      "id": 9
+    },
+    {
+      "name": "deneme",
+      "description": "ddd",
+      "imageUrl": "https://source.unsplash.com/YP6lDrlxWYQ",
+      "price": "456",
+      "categoryId": "4",
+      "id": 10
+    },
+    {
+      "imageUrl": "https://source.unsplash.com/YP6lDrlxWYQ",
+      "description": "ss",
+      "name": "aa",
+      "price": "33",
+      "categoryId": "2",
+      "id": 11
+    },
+    {
+      "name": "buzdolabı",
+      "description": "arçelik",
+      "imageUrl": "https://n11scdn.akamaized.net/a1/450/elektronik/portatif-radyo/nostalji-radyo-kemai-md-1700bt-bluetoothfm-radyousbsd-kart__0946841438213895.jpg",
+      "price": "2800",
+      "categoryId": "4",
+      "id": 12
+    },
+    {
+      "name": "Müzik Kutusu",
+      "description": "mp3 lü msc kutu",
+      "imageUrl": "https://n11scdn.akamaized.net/a1/450/elektronik/ses-sistemleri/rt-37c-everton-dijital-muzik-kutusu-radyo-usb-sdmp3-player__0316675359235113.jpg",
+      "price": "450",
+      "categoryId": "4",
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Mouse"
+    },
+    {
+      "id": 3,
+      "name": "Telefon"
+    },
+    {
+      "id": 4,
+      "name": "Radyo"
+    },
+    {
+      "id": 5,
+      "name": "Hdd"
+    }
+  ]
+}
